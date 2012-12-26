@@ -19,4 +19,34 @@ dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = rdf
 
+; contrib deps
+dependencies[] = ctools
+dependencies[] = date_api
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = token
+dependencies[] = references
+dependencies[] = features
+dependencies[] = strongarm
 
+; contrib standard
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = views_bulk_operations
+dependencies[] = date
+dependencies[] = pathauto
+
+; contrib basic
+dependencies[] = markdown 
+dependencies[] = link
+dependencies[] = plupload
+dependencies[] = filefield_sources
+dependencies[] = filefield_sources_plupload
+dependencies[] = user_reference
+dependencies[] = node_reference
+dependencies[] = insert
+dependencies[] = oembed
+
+; contrib other
+dependencies[] = transliteration
+;dependencies[] = 
