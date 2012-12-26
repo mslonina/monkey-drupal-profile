@@ -1,5 +1,5 @@
 name = Monkey
-description = Install with commonly used features pre-configured.
+description = Standard profile enhanced for common contrib modules.
 version = VERSION
 core = 7.x
 dependencies[] = block
@@ -34,6 +34,7 @@ dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = views_bulk_operations
 dependencies[] = date
+dependencies[] = date_views
 dependencies[] = pathauto
 
 ; contrib basic
@@ -46,7 +47,9 @@ dependencies[] = user_reference
 dependencies[] = node_reference
 dependencies[] = insert
 dependencies[] = oembed
+dependencies[] = oembedembedly
 
 ; contrib other
 dependencies[] = transliteration
+dependencies[] = fieldgroup
 ;dependencies[] = 
