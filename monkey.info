@@ -48,6 +48,7 @@ dependencies[] = node_reference
 dependencies[] = insert
 dependencies[] = oembed
 dependencies[] = oembedembedly
+dependencies[] = galleryformatter
 
 ; contrib other
 dependencies[] = transliteration
