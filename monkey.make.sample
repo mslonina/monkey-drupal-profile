@@ -57,11 +57,11 @@ projects[monkey_features][download][type] = "git"
 projects[monkey_features][download][url] = "git://github.com/mslonina/monkey-features.git"
 
 ; Localization support
-; projects[] = i18n
-; projects[] = l10n_update
+projects[] = variable
+projects[] = i18n
+projects[] = l10n_update
 
 ; Domain support
-; projects[] = variable
 ; projects[] = domain
 ; projects[] = domain_views
 ; projects[] = domain_variable
