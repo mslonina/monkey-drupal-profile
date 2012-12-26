@@ -371,4 +371,12 @@ function monkey_install() {
     ->execute();
   variable_set('admin_theme', 'seven');
   variable_set('node_admin_theme', '1');
+
+  include_once DRUPAL_ROOT . '/includes/module.inc';
+  $features = array(
+    'monkey_article',
+    'monkey_text_filters',
+    'monkey_basic_permissions',
+  );
+  module_enable($features, $enable_dependencies = TRUE);
 }
