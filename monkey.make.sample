@@ -72,4 +72,16 @@ libraries[plupload][type] = "libraries"
 libraries[plupload][download][type] = "file"
 libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
 
+; Keep an eye on the following:
+; Calendar
+; projects[] = fullcalendar
+; projects[] = fullcalendar_templates
+; projects[] = colors
+;libraries[fullcalendar][type] = "libraries"
+;libraries[fullcalendar][download][type] = "file"
+;libraries[fullcalendar][download][url] = "http://arshaw.com/fullcalendar/downloads/fullcalendar-1.5.4.zip"
+; projects[] = google_charts
+; projects[] = views_chart_tools
+; projects[] = draggable_views
+
 
