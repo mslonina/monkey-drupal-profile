@@ -1,7 +1,9 @@
-name = Monkey
-description = Standard profile enhanced for common contrib modules.
+name = Monkey Profile
+description = Standard profile+
 version = VERSION
 core = 7.x
+
+; core
 dependencies[] = block
 dependencies[] = contextual
 dependencies[] = image
@@ -55,4 +57,3 @@ dependencies[] = field_multiple_limit
 ; contrib other
 dependencies[] = transliteration
 dependencies[] = field_group
-;dependencies[] = 

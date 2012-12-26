@@ -372,10 +372,13 @@ function monkey_install() {
   variable_set('admin_theme', 'seven');
   variable_set('node_admin_theme', '1');
 
+  /**
+   * Enable common features
+   */
   include_once DRUPAL_ROOT . '/includes/module.inc';
   $features = array(
     'monkey_article',
-    'monkey_events',
+    //'monkey_events',
     'monkey_text_filters',
     'monkey_basic_permissions',
     'monkey_realname',
