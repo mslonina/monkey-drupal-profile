@@ -49,6 +49,8 @@ dependencies[] = insert
 dependencies[] = oembed
 dependencies[] = oembedembedly
 dependencies[] = galleryformatter
+dependencies[] = field_formatter_settings
+dependencies[] = field_multiple_limit
 
 ; contrib other
 dependencies[] = transliteration
