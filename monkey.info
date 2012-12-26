@@ -54,5 +54,5 @@ dependencies[] = field_multiple_limit
 
 ; contrib other
 dependencies[] = transliteration
-dependencies[] = fieldgroup
+dependencies[] = field_group
 ;dependencies[] = 
