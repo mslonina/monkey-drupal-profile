@@ -30,6 +30,7 @@ dependencies[] = token
 dependencies[] = references
 dependencies[] = features
 dependencies[] = strongarm
+dependencies[] = jquery_update
 
 ; contrib standard
 dependencies[] = views

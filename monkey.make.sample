@@ -50,6 +50,7 @@ projects[] = field_injector
 projects[] = linked_field
 projects[] = smart_trim
 projects[] = disqus
+projects[] = jquery_update
 
 ; Monkey features
 projects[monkey_features][type] = "module"
