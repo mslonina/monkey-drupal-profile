@@ -25,7 +25,7 @@ Several contrib modules are enabled during the installation, including:
 
 Following features are enabled during installation:
 - Basic permissions
-- Article (with Filefield sources and GalleryFormatter support)
+- Article (with Filefield sources, GalleryFormatter and Colorbox support)
 - Text Filters (with Markdown and Oembed support)
 - Realname
 
@@ -35,11 +35,14 @@ The distro comes with many other modules, such as:
 - Display Suite
 - Mollom
 - Disqus
+- Wysiwyg
 
 The set of modules has been chosen according to my long experience in working with Drupal.
 It should be useful for building many types of websites. Optional features are available,
 such as Events. If your project requires Domain, please uncomment the domain section in
 the monkey.make file.
+
+The core Comment module has been disabled.
 
 No core nor modules tweaks have been made. This distro uses the latest recommended
 releases.

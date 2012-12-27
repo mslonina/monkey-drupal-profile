@@ -53,6 +53,7 @@ projects[] = disqus
 projects[] = jquery_update
 projects[] = jcaption
 projects[] = colorbox
+projects[] = wysiwyg
 
 ; Monkey features
 projects[monkey_features][type] = "module"
