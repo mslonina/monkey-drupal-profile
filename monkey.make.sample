@@ -51,6 +51,8 @@ projects[] = linked_field
 projects[] = smart_trim
 projects[] = disqus
 projects[] = jquery_update
+projects[] = jcaption
+projects[] = colorbox
 
 ; Monkey features
 projects[monkey_features][type] = "module"
@@ -72,6 +74,10 @@ projects[] = l10n_update
 libraries[plupload][type] = "libraries"
 libraries[plupload][download][type] = "file"
 libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip"
+
+libraries[colorbox][type] = "libraries"
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
 
 ; Keep an eye on the following:
 ; Calendar
