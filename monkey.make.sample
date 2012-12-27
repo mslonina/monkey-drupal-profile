@@ -80,6 +80,16 @@ libraries[colorbox][type] = "libraries"
 libraries[colorbox][download][type] = "file"
 libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
 
+; Facebook integration
+projects[] = fb
+libraries[facebook-php-sdk][type] = "libraries"
+libraries[facebook-php-sdk][download][type] = "file"
+libraries[facebook-php-sdk][download][url] = "https://github.com/facebook/facebook-php-sdk/archive/master.zip"
+
+; Twitter integration
+projects[] = twitter
+projects[] = oauth
+
 ; Keep an eye on the following:
 ; Calendar
 ; projects[] = fullcalendar
