@@ -9,6 +9,14 @@ projects[monkey][type] = "profile"
 projects[monkey][download][type] = "git"
 projects[monkey][download][url] = "git@github.com:mslonina/monkey-drupal-profile.git"
 
+; Languages
+; This is a hack over Drush make
+projects[translations][type] = "profile"
+projects[translations][download][type] = "file"
+projects[translations][download][url] =  "http://ftp.drupal.org/files/translations/7.x/drupal/drupal-7.18.pl.po"
+; Important!
+projects[translations][subdir] = "monkey"
+
 ; Modules
 projects[] = ctools
 projects[] = context

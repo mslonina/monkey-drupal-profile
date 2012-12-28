@@ -20,6 +20,7 @@ dependencies[] = overlay
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = rdf
+dependencies[] = locale
 
 ; contrib deps
 dependencies[] = ctools
@@ -58,3 +59,4 @@ dependencies[] = field_multiple_limit
 ; contrib other
 dependencies[] = transliteration
 dependencies[] = field_group
+

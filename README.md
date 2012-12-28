@@ -1,4 +1,4 @@
-Monkey drupal profile
+Monkey Drupal profile
 =====================
 
 Monkey Drupal installation profile enables common contrib modules, and performs some basic
@@ -21,7 +21,7 @@ Several contrib modules are enabled during the installation, including:
 - Date
 - Pathauto
 - References
-- i18n
+- Localization
 
 Following features are enabled during installation:
 - Basic permissions
@@ -46,3 +46,8 @@ The core Comment module has been disabled.
 
 No core nor modules tweaks have been made. This distro uses the latest recommended
 releases.
+
+### Localization
+
+English and Polish languages are available during the installation. The Localization
+modules are available. 
