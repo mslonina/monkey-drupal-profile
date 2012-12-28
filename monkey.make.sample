@@ -102,4 +102,8 @@ projects[] = oauth
 ; projects[] = views_chart_tools
 ; projects[] = draggable_views
 
+; Themes
+projects[] = tao
+projects[] = rubik
+projects[] = fubik
 
