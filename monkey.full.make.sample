@@ -79,7 +79,7 @@ projects[] = oembed
 ; Features
 projects[] = strongarm
 projects[] = features
-projects[] = config_builder
+; projects[] = config_builder
 
 ; Fields
 projects[] = references
@@ -141,10 +141,10 @@ projects[monkey_features][download][type] = "git"
 projects[monkey_features][download][url] = "git://github.com/mslonina/monkey-features.git"
 
 ; Domain support
-projects[] = domain
-projects[] = domain_views
-projects[] = domain_variable
-projects[] = domaincontext
+; projects[] = domain
+; projects[] = domain_views
+; projects[] = domain_variable
+; projects[] = domaincontext
  
 ; Themes
 projects[] = tao

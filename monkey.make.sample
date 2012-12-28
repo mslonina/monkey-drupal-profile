@@ -79,7 +79,7 @@ projects[] = oembed
 ; Features
 projects[] = strongarm
 projects[] = features
-projects[] = config_builder
+; projects[] = config_builder
 
 ; Fields
 projects[] = references
