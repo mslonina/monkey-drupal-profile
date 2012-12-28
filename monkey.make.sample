@@ -91,7 +91,7 @@ projects[] = ffc
 projects[] = field_injector
 projects[] = linked_field
 projects[] = smart_trim
-projects[] = fences ; field markup
+projects[] = fences
 ; projects[] = field_label_plurals
 ; projects[] = textformatter
 ; projects[] = token_formatters
@@ -102,7 +102,7 @@ projects[] = override_node_options
 ; projects[] = wysiwyg
 ; projects[] = edit_limit
 ; projects[] = anonymous_posting 
-; projects[] = ccl ; Custom contextual links
+; projects[] = ccl
 ; projects[] = view_unpublished
 
 ; Node access
