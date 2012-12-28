@@ -55,6 +55,7 @@ projects[] = node_announce
 ; File upload
 projects[] = insert
 projects[] = filefield_sources
+projects[] = visual_select_file
 projects[] = plupload
 projects[] = filefield_sources_plupload
 projects[] = transliteration
@@ -134,6 +135,9 @@ projects[] = disqus
 projects[] = variable
 projects[] = i18n
 projects[] = l10n_update
+
+; Webform
+projects[] = webform
 
 ; Monkey features
 projects[monkey_features][type] = "module"
