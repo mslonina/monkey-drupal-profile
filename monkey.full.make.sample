@@ -28,7 +28,7 @@ projects[] = ds
 
 ; Path
 projects[] = pathauto
-; projects[] = pathologic
+projects[] = pathologic
 
 ; Feeds
 projects[] = feeds
@@ -40,12 +40,12 @@ projects[] = views_bulk_operations
 projects[] = views_field_view
 projects[] = viewfield
 projects[] = views_data_export
-; projects[] = views_rules
-; projects[] = views_dependent_filters
+projects[] = views_rules
+projects[] = views_dependent_filters
 
 ; Rules
 projects[] = rules
-;projects[] = rules_conditional
+projects[] = rules_conditional
 
 ; Date
 projects[] = date
@@ -92,27 +92,27 @@ projects[] = field_injector
 projects[] = linked_field
 projects[] = smart_trim
 projects[] = fences ; field markup
-; projects[] = field_label_plurals
-; projects[] = textformatter
-; projects[] = token_formatters
-; projects[] = field_formatter_css_class
+projects[] = field_label_plurals
+projects[] = textformatter
+projects[] = token_formatters
+projects[] = field_formatter_css_class
 
 ; Content creation
 projects[] = override_node_options
-; projects[] = wysiwyg
-; projects[] = edit_limit
-; projects[] = anonymous_posting 
-; projects[] = ccl ; Custom contextual links
-; projects[] = view_unpublished
+projects[] = wysiwyg
+projects[] = edit_limit
+projects[] = anonymous_posting 
+projects[] = ccl ; Custom contextual links
+projects[] = view_unpublished
 
 ; Node access
 projects[] = nodeaccess_userreference
 projects[] = nodeaccess_nodereference
-; projects[] = premium_content
-; projects[] = permission_grid
+projects[] = premium_content
+projects[] = permission_grid
 
 ; Spam protection
-; projects[] = mollom
+projects[] = mollom
 
 ; Users
 projects[] = realname
@@ -121,14 +121,14 @@ projects[] = realname
 projects[] = disqus
 
 ; Twitter integration
-; projects[] = twitter
-; projects[] = oauth
+projects[] = twitter
+projects[] = oauth
 
 ; Facebook integration
-; projects[] = fb
-; libraries[facebook-php-sdk][type] = "libraries"
-; libraries[facebook-php-sdk][download][type] = "file"
-; libraries[facebook-php-sdk][download][url] = "https://github.com/facebook/facebook-php-sdk/archive/master.zip"
+projects[] = fb
+libraries[facebook-php-sdk][type] = "libraries"
+libraries[facebook-php-sdk][download][type] = "file"
+libraries[facebook-php-sdk][download][url] = "https://github.com/facebook/facebook-php-sdk/archive/master.zip"
 
 ; Localization support
 projects[] = variable
@@ -141,10 +141,10 @@ projects[monkey_features][download][type] = "git"
 projects[monkey_features][download][url] = "git://github.com/mslonina/monkey-features.git"
 
 ; Domain support
-; projects[] = domain
-; projects[] = domain_views
-; projects[] = domain_variable
-; projects[] = domaincontext
+projects[] = domain
+projects[] = domain_views
+projects[] = domain_variable
+projects[] = domaincontext
  
 ; Themes
 projects[] = tao
