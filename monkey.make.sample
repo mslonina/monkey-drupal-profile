@@ -103,6 +103,7 @@ projects[] = override_node_options
 ; projects[] = wysiwyg
 ; projects[] = edit_limit
 ; projects[] = anonymous_posting 
+; projects[] = content_approval
 ; projects[] = ccl
 ; projects[] = view_unpublished
 
