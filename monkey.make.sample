@@ -150,11 +150,28 @@ projects[monkey_features][download][url] = "git://github.com/mslonina/monkey-fea
 ; projects[] = domain_views
 ; projects[] = domain_variable
 ; projects[] = domaincontext
+
+; projects[] = quicktabs
+
+; html5
+projects[] = elements
+projects[] = html5_tools
  
 ; Themes
 projects[] = tao
 projects[] = rubik
 projects[] = fubik
+projects[] = writer
+projects[] = elementary
+projects[] = gogland
+projects[] = boron
+projects[] = cogito
+
+;projects[] = nucleus
+;projects[] = tb_rave
+
+; Drupal8
+; projects[] = backports
 
 ; Keep an eye on the following:
 ; Calendar
