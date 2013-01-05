@@ -377,6 +377,7 @@ function monkey_install() {
    */
   include_once DRUPAL_ROOT . '/includes/module.inc';
   $features = array(
+    'monkey_base',
     'monkey_article',
     //'monkey_events',
     'monkey_text_filters',
