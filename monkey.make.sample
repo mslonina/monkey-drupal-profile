@@ -170,6 +170,24 @@ projects[] = cogito
 ;projects[] = nucleus
 ;projects[] = tb_rave
 
+; Experimental
+projects[] = linkit
+projects[] = speedy
+projects[] = views_rss
+projects[] = draggableviews
+projects[] = references_dialog
+projects[] = file_entity
+projects[media] = media
+projects[media][version] = 7.x-2.0-unstable7
+projects[] = remote_stream_wrapper
+projects[] = field_collection
+projects[] = field_collection_views
+projects[] = field_collection_table
+projects[] = field_collection_bulkupload
+
+; Views node taxonomy filter
+projects[] = vntf
+
 ; Drupal8
 ; projects[] = backports
 
