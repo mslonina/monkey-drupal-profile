@@ -92,7 +92,11 @@ projects[] = oembed
 projects[] = strongarm
 projects[] = features
 
-;projects[] = config_builder
+; Config builder
+projects[] = options_element
+projects[] = form_builder
+projects[config_builder] = config_builder
+projects[config_builder][patch][1823562] = http://drupal.org/files/remove_make-1823562-1.patch
 
 ; Fields
 projects[] = references
@@ -132,11 +136,13 @@ projects[] = anonymous_posting
 projects[] = content_approval
 projects[] = view_unpublished
 
-; Node access
+; Node and field access
 projects[] = nodeaccess_userreference
 projects[] = nodeaccess_nodereference
+projects[] = field_permissions
 ; projects[] = premium_content
 ; projects[] = permission_grid
+
 
 ; Spam protection
 ; projects[] = mollom
@@ -216,6 +222,10 @@ projects[] = context_field
 projects[] = context_set_message
 projects[] = context_entity_field
 projects[] = context_disable_context
+
+; Utilities
+projects[] = checkbox_filter
+projects[] = filter_perms
 
 ; Drupal8
 ; projects[] = backports

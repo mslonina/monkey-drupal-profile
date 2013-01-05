@@ -61,3 +61,7 @@ dependencies[] = field_multiple_limit
 dependencies[] = transliteration
 dependencies[] = field_group
 
+; admin
+dependencies[] = admin_views
+dependencies[] = filter_perms
+dependencies[] = checkbox_filter
