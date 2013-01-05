@@ -29,6 +29,7 @@ dependencies[] = entity
 dependencies[] = entity_token
 dependencies[] = token
 dependencies[] = references
+dependencies[] = references_id_trim
 dependencies[] = features
 dependencies[] = strongarm
 dependencies[] = jquery_update

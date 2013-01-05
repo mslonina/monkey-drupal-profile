@@ -1,66 +1,84 @@
-### Modules worth looking at
+## Modules worth looking at
 
-- [http://drupal.org/project/field_countdown](field_countdown)
-- [http://drupal.org/project/jquery_countdown_timer](Jquery countdown timer)
-- [http://drupal.org/project/breadcrumb2](breadcrumb2)
-- [http://drupal.org/project/fb_autopost](Facebook autopost)
+### Content
 - [http://drupal.org/project/base_wysiwyg](Base Wysiwyg)
-- [http://drupal.org/project/exif_custom](Exif custom)
-- [http://drupal.org/project/definition_field](Definition Field)
-- [http://drupal.org/project/double_field](Double Field)
-- [http://drupal.org/project/userpickit](User Pic Kit)
-- [http://drupal.org/project/field_collection_tabs](Field collection tabs)
-- [http://drupal.org/project/field_collection](Field collection)
-- [http://drupal.org/project/field_collection_bulkupload](Field collection bulkupload)
-- [http://drupal.org/project/field_collection_modals](Field collection modals)
-- [http://drupal.org/project/views_timelinejs](Views TimelineJS)
 - [http://drupal.org/project/workbench_email](Workbench Email)
 - [http://drupal.org/project/workbench](Workbench)
+- [http://drupal.org/project/node_clone](Node clone)
+- [http://drupal.org/project/seditor](Simple editor)
+
+### Text filters
+- [http://drupal.org/project/toc_filter][TOC filter]
+
+### Fields
+- [http://drupal.org/project/semantic_ds](Semantic DS)
+- [http://drupal.org/project/definition_field](Definition Field)
+- [http://drupal.org/project/double_field](Double Field)
+- [http://drupal.org/project/field_countdown](field_countdown)
+- [http://drupal.org/project/jquery_countdown_timer](Jquery countdown timer)
+- [http://drupal.org/project/field_collection_tabs](Field collection tabs)
+- **[http://drupal.org/project/field_collection](Field collection)**
+- **[http://drupal.org/project/field_collection_bulkupload](Field collection bulkupload)**
+- [http://drupal.org/project/field_collection_modals](Field collection modals)
 - [http://drupal.org/project/field_orbit](Zurb Orbit field)
 - [http://drupal.org/project/color_field](Color field)
-- [http://drupal.org/project/title](Title)
-- [http://drupal.org/project/visualization](Visualization API)
-- [http://drupal.org/project/seditor](Simple editor)
-- [http://drupal.org/project/tgf](Taxonomy Group Fields)
-- [http://drupal.org/project/semantic_ds](Semantic DS)
-- [http://drupal.org/project/domain_wf_bridge](Domain Workflow Bridge)
-- [http://drupal.org/project/webform_scheduler](Webform scheduler)
+- **[http://drupal.org/project/title](Title)**
+- [http://drupal.org/project/simple_field_formatter](Simple field formatter)
+- **[http://drupal.org/project/references_id_trim](References ID trim)**
 - [http://drupal.org/project/empty_fields](Empty Fields)
-- [http://drupal.org/project/diskfree](Diskfree)
-- [http://drupal.org/project/git](Git)
-- [http://drupal.org/project/context_disable_context](Context disable context)
-- [http://drupal.org/project/bean](Bean)
-- [http://drupal.org/project/openlayers](Open Layers)
-- [http://drupal.org/project/datepicker](Datepicker)
-- [http://drupal.org/project/views_fieldsets](Views Fieldsets)
-- [http://drupal.org/project/views_dataviz](Views Dataviz)
-- [http://drupal.org/project/google_cloud_storage](Google Cloud Storage)
-- [http://drupal.org/project/views_ical](Views iCal)
-- [http://drupal.org/project/Droogle](Drupal Google Drive)
-- [http://drupal.org/project/timelinr](Jquery Timelinr)
-- [http://drupal.org/project/maxlength_js_widget](Textarea maxlength js widget)
-- [http://drupal.org/project/webform_select_opts](Webform select options)
-- [http://drupal.org/project/views_sexy_throbber](Views Sexy Ajax Throbber)
-- [http://drupal.org/project/context_set_message](Context set message)
-- [http://drupal.org/project/views_raw_sql](Views raw sql)
-- [http://drupal.org/project/webform_autocomplete](Webform autocomplete)
-- [http://drupal.org/project/views_simple_pager](Views Simple Pager)
-- [http://drupal.org/project/node_clone](Node clone)
+
+### Webforms
+- **[http://drupal.org/project/webform_select_opts](Webform select options)**
+- **[http://drupal.org/project/webform_autocomplete](Webform autocomplete)**
+- **[http://drupal.org/project/webform_scheduler](Webform scheduler)**
+
+### Context
+- **[http://drupal.org/project/context_set_message](Context set message)**
+- **[http://drupal.org/project/context_entity_field](Context entity field)**
+- **[http://drupal.org/project/context_disable_context](Context disable context)**
+
+### Domain
 - [http://drupal.org/project/domain_roles](Domain roles)
-- [http://drupal.org/project/context_entity_field](Context entity field)
-- [http://drupal.org/project/imagematrix](Views imagematrix)
 - [http://drupal.org/project/domain_types](Domain Types)
 - [http://drupal.org/project/domain_tax](Domain taxonomy)
 - [http://drupal.org/project/domain_robotstxt](Domain robotstxt)
-- [http://drupal.org/project/date_ical](Date iCal)
-- [http://drupal.org/project/references_id_trim](References ID trim)
-- [http://drupal.org/project/pdf](PDF)
-- [http://drupal.org/project/views_dependent_filters](Views dependent filters)
+- [http://drupal.org/project/domain_wf_bridge](Domain Workflow Bridge)
+
+### Date
+- **[http://drupal.org/project/date_ical](Date iCal)**
+- **[http://drupal.org/project/datepicker](Datepicker)**
+
+### Views
+- **[http://drupal.org/project/views_dependent_filters](Views dependent filters)**
 - [http://drupal.org/project/better_exposed_filters](Better exposed filters)
-- [http://drupal.org/project/toc_filter][TOC filter]
-- [http://drupal.org/project/admin_views](Administration views)
-- [http://drupal.org/project/simple_field_formatter](Simple field formatter)
+- **[http://drupal.org/project/admin_views](Administration views)**
+- [http://drupal.org/project/views_raw_sql](Views raw sql)
+- **[http://drupal.org/project/views_simple_pager](Views Simple Pager)**
+- [http://drupal.org/project/views_sexy_throbber](Views Sexy Ajax Throbber)
+- **[http://drupal.org/project/views_fieldsets](Views Fieldsets)**
+- **[http://drupal.org/project/views_ical](Views iCal)**
+- [http://drupal.org/project/views_dataviz](Views Dataviz)
+- [http://drupal.org/project/views_timelinejs](Views TimelineJS)
+
+### Other
+- [http://drupal.org/project/breadcrumb2](breadcrumb2)
+- [http://drupal.org/project/fb_autopost](Facebook autopost)
+- [http://drupal.org/project/exif_custom](Exif custom)
+- [http://drupal.org/project/userpickit](User Pic Kit)
+- [http://drupal.org/project/visualization](Visualization API)
+- [http://drupal.org/project/tgf](Taxonomy Group Fields)
+- [http://drupal.org/project/diskfree](Diskfree)
+- [http://drupal.org/project/git](Git)
+- [http://drupal.org/project/bean](Bean)
+- [http://drupal.org/project/openlayers](Open Layers)
+- [http://drupal.org/project/google_cloud_storage](Google Cloud Storage)
+- [http://drupal.org/project/Droogle](Drupal Google Drive)
+- [http://drupal.org/project/timelinr](Jquery Timelinr)
+- [http://drupal.org/project/maxlength_js_widget](Textarea maxlength js widget)
+- [http://drupal.org/project/imagematrix](Views imagematrix)
+- [http://drupal.org/project/pdf](PDF)
 - [http://drupal.org/project/fivestar](Fivestar ratings)
 
+### Dangerous
 - [http://drupal.org/project/module_roulette](Module roulette)
 - [http://drupal.org/project/bad_judgement](Bad judgement)
