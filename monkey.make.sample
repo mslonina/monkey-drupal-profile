@@ -260,4 +260,17 @@ projects[] = filter_perms
 ;projects[media][version] = 2.0-unstable7
 ;projects[] = remote_stream_wrapper
 
+; Bootstrap
+libraries[bootstrap][type] = "libraries"
+libraries[bootstrap][download][type] = "file"
+libraries[bootstrap][download][url] = "http://twitter.github.com/bootstrap/assets/bootstrap.zip"
 
+; Foundation
+libraries[foundation][type] = "libraries"
+libraries[foundation][download][type] = "file"
+libraries[foundation][download][url] = "http://foundation.zurb.com/files/foundation-3.2.2.zip"
+
+; Font Awesome
+libraries[font_awesome][type] = "libraries"
+libraries[font_awesome][download][type] = "file"
+libraries[font_awesome][download][url] = "https://github.com/FortAwesome/Font-Awesome/archive/v3.0.0.tar.gz"
