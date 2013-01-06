@@ -51,3 +51,7 @@ releases.
 
 English and Polish languages are available during the installation. The Localization
 modules are available. 
+
+### Making a distro
+
+    drush make monkey.make monkey-7.18 --prepare-install --tar
