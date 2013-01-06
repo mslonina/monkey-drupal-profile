@@ -1,9 +1,12 @@
 ## Modules worth looking at
 
 ### Content
-- http://drupal.org/project/base_wysiwyg
-- http://drupal.org/project/workbench_email
+- http://drupal.org/project/workflow
 - http://drupal.org/project/workbench
+- http://drupal.org/project/workbench_email
+- http://drupal.org/project/workbench_access
+- http://drupal.org/project/workbench_moderation
+- http://drupal.org/project/base_wysiwyg
 - http://drupal.org/project/node_clone
 - http://drupal.org/project/seditor
 
