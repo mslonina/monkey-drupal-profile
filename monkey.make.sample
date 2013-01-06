@@ -177,6 +177,8 @@ projects[] = quicktabs
 
 ; Social media integration
 projects[] = disqus
+projects[] = livefyre
+projects[] = facebook_comments_box
 
 ; Twitter integration
 projects[] = twitter
