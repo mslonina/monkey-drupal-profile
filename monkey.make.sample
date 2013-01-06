@@ -54,6 +54,7 @@ projects[] = views_ical
 projects[] = draggableviews
 projects[] = views_simple_pager
 projects[] = admin_views
+projects[] = views_send
 
 ; Views node taxonomy filter
 projects[] = vntf
@@ -153,7 +154,6 @@ projects[] = field_permissions
 ; projects[] = premium_content
 ; projects[] = permission_grid
 
-
 ; Spam protection
 projects[] = mollom
 
@@ -219,6 +219,9 @@ projects[] = cogito
 projects[] = linkit
 projects[] = speedy
 projects[] = references_dialog
+
+; This may play well for newsletters with views_send
+projects[]= simple_subscription
 
 ; Boxes
 projects[] = entity_autocomplete

@@ -81,6 +81,17 @@
 - http://drupal.org/project/data
 - http://drupal.org/project/feed_path_publisher
 
+### Mail
+
+- http://drupal.org/project/mailhandler
+
+### Newsletters
+
+- http://drupal.org/project/mailchimp
+- http://drupal.org/project/webform_mailchimp
+- http://drupal.org/project/simplenews
+- http://drupal.org/project/webform_simplenews
+
 ### Other
 - http://drupal.org/project/portables
 - http://drupal.org/project/socialmedia
