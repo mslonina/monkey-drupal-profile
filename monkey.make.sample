@@ -98,6 +98,9 @@ projects[] = form_builder
 projects[config_builder] = config_builder
 projects[config_builder][patch][1823562] = http://drupal.org/files/remove_make-1823562-1.patch
 
+; For distro builders (setup screen)
+projects[] = setup
+
 ; Fields
 projects[] = references
 projects[] = references_id_trim
@@ -130,8 +133,8 @@ projects[] = inline_entity_form
 
 ; Content creation
 projects[] = override_node_options
-; projects[] = wysiwyg
-; projects[] = edit_limit
+projects[] = wysiwyg
+projects[] = edit_limit
 projects[] = anonymous_posting 
 projects[] = content_approval
 projects[] = view_unpublished
@@ -145,13 +148,13 @@ projects[] = field_permissions
 
 
 ; Spam protection
-; projects[] = mollom
+projects[] = mollom
 
 ; Users
 projects[] = realname
 
 ; Custom Contextual Links
-; projects[] = ccl
+projects[] = ccl
 
 ; Social media integration
 projects[] = disqus
@@ -189,7 +192,7 @@ projects[monkey_features][download][url] = "git://github.com/mslonina/monkey-fea
 ; projects[] = domain_variable
 ; projects[] = domaincontext
 
-; projects[] = quicktabs
+projects[] = quicktabs
 
 ; html5
 projects[] = elements
@@ -240,6 +243,8 @@ projects[] = filter_perms
 ; libraries[fullcalendar][download][url] = "http://arshaw.com/fullcalendar/downloads/fullcalendar-1.5.4.zip"
 ; projects[] = google_charts
 ; projects[] = views_chart_tools
+
+; Media
 ;projects[] = file_entity
 ;projects[media] = media
 ;projects[media][version] = 2.0-unstable7
