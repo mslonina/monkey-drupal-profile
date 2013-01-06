@@ -63,13 +63,23 @@
 - http://drupal.org/project/views_dataviz
 - http://drupal.org/project/views_timelinejs
 - http://drupal.org/project/imagematrix
+- http://drupal.org/project/views_datasource
 
 ### Voting
 
 - http://drupal.org/project/votingapi
 - http://drupal.org/project/fivestar
 
+### Feeds
+
+- http://drupal.org/project/feeds_jsonpath_parser
+- http://drupal.org/project/feeds_youtube
+- http://drupal.org/project/data
+- http://drupal.org/project/feed_path_publisher
+
 ### Other
+- http://drupal.org/project/portables
+- http://drupal.org/project/socialmedia
 - http://drupal.org/project/breadcrumb2
 - http://drupal.org/project/fb_autopost
 - http://drupal.org/project/exif_custom

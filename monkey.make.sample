@@ -31,8 +31,14 @@ projects[] = pathauto
 projects[] = pathologic
 
 ; Feeds
-projects[] = feeds
 projects[] = job_scheduler
+projects[] = feeds
+projects[] = feeds_tamper
+projects[] = feeds_xpathparser
+projects[] = feeds_crawler
+projects[] = feeds_regex_parser
+projects[] = querypath
+projects[] = feeds_querypath_parser
 
 ; Views
 projects[] = views
@@ -138,6 +144,7 @@ projects[] = edit_limit
 projects[] = anonymous_posting 
 projects[] = content_approval
 projects[] = view_unpublished
+projects[] = creativecommons
 
 ; Node and field access
 projects[] = nodeaccess_userreference
