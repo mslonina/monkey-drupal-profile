@@ -9,6 +9,11 @@ projects[monkey][type] = "profile"
 projects[monkey][download][type] = "git"
 projects[monkey][download][url] = "git@github.com:mslonina/monkey-drupal-profile.git"
 
+; Monkey features
+projects[monkey_features][type] = "module"
+projects[monkey_features][download][type] = "git"
+projects[monkey_features][download][url] = "git://github.com/mslonina/monkey-features.git"
+
 ; Languages
 ; This is a hack over Drush make
 projects[translations][type] = "profile"
@@ -16,6 +21,10 @@ projects[translations][download][type] = "file"
 projects[translations][download][url] =  "http://ftp.drupal.org/files/translations/7.x/drupal/drupal-7.18.pl.po"
 ; Important!
 projects[translations][subdir] = "monkey"
+
+;
+; An ultimate set of Drupal modules for site builders
+;
 
 ; Base
 projects[] = ctools
@@ -163,6 +172,9 @@ projects[] = realname
 ; Custom Contextual Links
 projects[] = ccl
 
+; UI
+projects[] = quicktabs
+
 ; Social media integration
 projects[] = disqus
 
@@ -172,10 +184,10 @@ projects[] = oauth
 
 ; Facebook integration
 projects[] = feeds_facebook
-; projects[] = fb
-; libraries[facebook-php-sdk][type] = "libraries"
-; libraries[facebook-php-sdk][download][type] = "file"
-; libraries[facebook-php-sdk][download][url] = "https://github.com/facebook/facebook-php-sdk/archive/master.zip"
+projects[] = fb
+libraries[facebook-php-sdk][type] = "libraries"
+libraries[facebook-php-sdk][download][type] = "file"
+libraries[facebook-php-sdk][download][url] = "https://github.com/facebook/facebook-php-sdk/archive/master.zip"
 
 ; Localization support
 projects[] = variable
@@ -188,18 +200,19 @@ projects[] = webform_select_opts
 projects[] = webform_autocomplete
 projects[] = webform_scheduler
 
-; Monkey features
-projects[monkey_features][type] = "module"
-projects[monkey_features][download][type] = "git"
-projects[monkey_features][download][url] = "git://github.com/mslonina/monkey-features.git"
+; Voting
+projects[] = votingapi
+projects[] = fivestar
 
 ; Domain support
 ; projects[] = domain
 ; projects[] = domain_views
 ; projects[] = domain_variable
 ; projects[] = domaincontext
-
-projects[] = quicktabs
+; projects[] = domain_roles
+; projects[] = domain_types
+; projects[] = domain_tax
+; projects[] = domain_robotstxt
 
 ; html5
 projects[] = elements
@@ -221,7 +234,7 @@ projects[] = speedy
 projects[] = references_dialog
 
 ; This may play well for newsletters with views_send
-projects[]= simple_subscription
+projects[] = simple_subscription
 
 ; Boxes
 projects[] = entity_autocomplete
@@ -243,22 +256,13 @@ projects[] = filter_perms
 ; Drupal8
 ; projects[] = backports
 
-; Keep an eye on the following:
 ; Calendar
-; projects[] = fullcalendar
-; projects[] = fullcalendar_templates
-; projects[] = colors
-; libraries[fullcalendar][type] = "libraries"
-; libraries[fullcalendar][download][type] = "file"
-; libraries[fullcalendar][download][url] = "http://arshaw.com/fullcalendar/downloads/fullcalendar-1.5.4.zip"
-; projects[] = google_charts
-; projects[] = views_chart_tools
-
-; Media
-;projects[] = file_entity
-;projects[media] = media
-;projects[media][version] = 2.0-unstable7
-;projects[] = remote_stream_wrapper
+projects[] = fullcalendar
+projects[] = fullcalendar_templates
+projects[] = colors
+libraries[fullcalendar][type] = "libraries"
+libraries[fullcalendar][download][type] = "file"
+libraries[fullcalendar][download][url] = "http://arshaw.com/fullcalendar/downloads/fullcalendar-1.5.4.zip"
 
 ; Bootstrap
 libraries[bootstrap][type] = "libraries"
@@ -274,3 +278,11 @@ libraries[foundation][download][url] = "http://foundation.zurb.com/files/foundat
 libraries[font_awesome][type] = "libraries"
 libraries[font_awesome][download][type] = "file"
 libraries[font_awesome][download][url] = "https://github.com/FortAwesome/Font-Awesome/archive/v3.0.0.tar.gz"
+
+; Keep an eye on the following:
+; Media
+;projects[] = file_entity
+;projects[media] = media
+;projects[media][version] = 2.0-unstable7
+;projects[] = remote_stream_wrapper
+

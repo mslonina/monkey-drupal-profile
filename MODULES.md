@@ -41,10 +41,10 @@
 - **http://drupal.org/project/context_disable_context**
 
 ### Domain
-- http://drupal.org/project/domain_roles
-- http://drupal.org/project/domain_types
-- http://drupal.org/project/domain_tax
-- http://drupal.org/project/domain_robotstxt
+- **http://drupal.org/project/domain_roles**
+- **http://drupal.org/project/domain_types**
+- **http://drupal.org/project/domain_tax**
+- **http://drupal.org/project/domain_robotstxt**
 - http://drupal.org/project/domain_wf_bridge
 
 ### Date
@@ -69,8 +69,8 @@
 
 ### Voting
 
-- http://drupal.org/project/votingapi
-- http://drupal.org/project/fivestar
+- **http://drupal.org/project/votingapi**
+- **http://drupal.org/project/fivestar**
 
 ### Feeds
 
@@ -84,6 +84,7 @@
 ### Mail
 
 - http://drupal.org/project/mailhandler
+- http://drupal.org/project/smtp
 
 ### Newsletters
 
@@ -110,7 +111,6 @@
 - http://drupal.org/project/timelinr
 - http://drupal.org/project/maxlength_js_widget
 - http://drupal.org/project/pdf
-- http://drupal.org/project/fivestar
 
 ### Dangerous
 - http://drupal.org/project/module_roulette
