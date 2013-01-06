@@ -64,6 +64,11 @@
 - http://drupal.org/project/views_timelinejs
 - http://drupal.org/project/imagematrix
 
+### Voting
+
+- http://drupal.org/project/votingapi
+- http://drupal.org/project/fivestar
+
 ### Other
 - http://drupal.org/project/breadcrumb2
 - http://drupal.org/project/fb_autopost
