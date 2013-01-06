@@ -52,6 +52,8 @@
 - **http://drupal.org/project/datepicker**
 
 ### Views
+- [searchresults](http://drupal.org/search/site/views?f[0]=drupal_core%3A103&f[1]=bs_project_sandbox%3A0&f[2]=ss_meta_type%3Amodule)
+
 - **http://drupal.org/project/views_dependent_filters**
 - http://drupal.org/project/better_exposed_filters
 - **http://drupal.org/project/admin_views**
@@ -71,6 +73,8 @@
 - http://drupal.org/project/fivestar
 
 ### Feeds
+
+- [search results](http://drupal.org/search/site/feeds?f[0]=drupal_core%3A103&f[1]=bs_project_sandbox%3A0&f[2]=ss_meta_type%3Amodule)
 
 - http://drupal.org/project/feeds_jsonpath_parser
 - http://drupal.org/project/feeds_youtube
