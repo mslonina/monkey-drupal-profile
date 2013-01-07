@@ -64,6 +64,7 @@ projects[] = draggableviews
 projects[] = views_simple_pager
 projects[] = admin_views
 projects[] = views_send
+projects[] = better_exposed_filters
 
 ; Views node taxonomy filter
 projects[] = vntf
