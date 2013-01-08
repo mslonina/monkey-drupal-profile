@@ -185,6 +185,7 @@ projects[] = gmap
 projects[] = disqus
 projects[] = livefyre
 projects[] = facebook_comments_box
+projects[] = activitystream
 
 ; Twitter integration
 projects[] = twitter
