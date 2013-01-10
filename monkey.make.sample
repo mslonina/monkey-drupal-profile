@@ -176,6 +176,7 @@ projects[] = ccl
 ; UI
 projects[] = quicktabs
 projects[] = menu_icons
+projects[] = admin
 
 ; Maps
 projects[] = simple_gmap
@@ -236,6 +237,7 @@ projects[] = elementary
 projects[] = gogland
 projects[] = boron
 projects[] = cogito
+projects[] = shiny
 
 ; Experimental
 projects[] = linkit
